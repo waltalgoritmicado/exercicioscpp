@@ -6,15 +6,17 @@
 <img src="https://i.imgur.com/o2xHeW6.png" alt="expressao" />
 
 <p>Exemplos:</p>
-<p>Entrada 1:</p>
+<strong>Entrada 1:</strong>
 <p>4 3</p>
-<p>Saída Esperada 1:</p>
+<strong>Saída Esperada 1:</strong>
 <p>2.083</p>
 
 
-<p>Entrada 2</p>
+
+
+<strong>Entrada 2</strong>
 <p>8 5</p>
-<p>Saída Esperada 2:</p>
+<strong>Saída Esperada 2:</strong>
 <p>2.225</p>
 
 
