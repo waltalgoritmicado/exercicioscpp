@@ -5,19 +5,16 @@
 
 <img src="https://i.imgur.com/o2xHeW6.png" alt="expressao" />
 
-Exemplos:
-
-Entrada 1:
-
-4 3
-Saída Esperada 1:
-2.083
+<p>Exemplos:</p>
+<p>Entrada 1:</p>
+<p>4 3</p>
+<p>Saída Esperada 1:</p>
+<p>2.083</p>
 
 
-Entrada 2
-
-8 5
-Saída Esperada 2:
-2.225
+<p>Entrada 2</p>
+<p>8 5</p>
+<p>Saída Esperada 2:</p>
+<p>2.225</p>
 
 
