@@ -1,19 +1,22 @@
-<h1>Enunciados dos Exercícios</h1>
+# Enunciados dos Exercícios
 
-<h3>ex001</h3>
-<p>Faça um programa Pascal que leia do teclado dois valores reais x e y, e em seguida calcule e imprima o valor da seguinte expressão com três casas decimais:</p>
+# ex001
 
-<img src="https://i.imgur.com/o2xHeW6.png" alt="expressao" />
+Faça um programa Pascal que leia do teclado dois valores reais x e y, e em seguida calcule e imprima o valor da seguinte expressão com três casas decimais:
 
-<div>Exemplos:</div>
-<div>Entrada 1:</div>
-<div>4 3</div>
-<div>Saída Esperada 1:</div>
-<div>2.083</div>
-<div></div>
-<div>Entrada 2:</div>
-<div>8 5</div>
-<div>Saída Esperada 2:</div>
-<div>2.225</div>
 
+![expressao](https://i.imgur.com/o2xHeW6.png "expressao")
+
+```
+Exemplos:
+Entrada 1:
+4 3
+Saída Esperada 1:
+2.083
+
+Entrada 2:
+8 5
+Saída Esperada 2:
+2.225
+```
 
