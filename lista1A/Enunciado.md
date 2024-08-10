@@ -10,8 +10,7 @@
 <div>4 3</div>
 <div>Saída Esperada 1:</div>
 <div>2.083</div>
-
-
+<div></div>
 <div>Entrada 2:</div>
 <div>8 5</div>
 <div>Saída Esperada 2:</div>
