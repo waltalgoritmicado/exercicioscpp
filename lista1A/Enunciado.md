@@ -199,6 +199,7 @@ Saída Esperada 2:
 Faça um programa Pascal que leia dois números inteiros, um será o valor de um produto e outro o valor de desconto que esse produto está recebendo.
 Imprima quantos reais o produto custa na promoção.
 
+```
 Exemplos:
 Entrada 1:
 500 50
