@@ -7,16 +7,14 @@
 
 <p>Exemplos:</p>
 <strong>Entrada 1:</strong>
-<p>4 3</p>
+<span>4 3</span>
 <strong>Saída Esperada 1:</strong>
-<p>2.083</p>
-
-
+<span>2.083</span>
 
 
 <strong>Entrada 2</strong>
-<p>8 5</p>
+<span>8 5</span>
 <strong>Saída Esperada 2:</strong>
-<p>2.225</p>
+<span>2.225</span>
 
 
