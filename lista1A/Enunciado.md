@@ -12,7 +12,7 @@
 <p>2.083</p>
 
 
-<strong>Entrada 2</strong>
+<strong>Entrada 2:</strong>
 <p>8 5</p>
 <strong>Saída Esperada 2:</strong>
 <p>2.225</p>
