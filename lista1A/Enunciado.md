@@ -1,6 +1,6 @@
 # Enunciados dos Exercícios
 
-# ex001
+### ex001
 
 Faça um programa Pascal que leia do teclado dois valores reais x e y, e em seguida calcule e imprima o valor da seguinte expressão com três casas decimais:
 
@@ -20,7 +20,7 @@ Saída Esperada 2:
 2.225
 ```
 
-#### ex002.cpp
+### ex002.cpp
 
 
 Dado um número inteiro que representa uma quantidade de segundos, faça um programa que imprima o seu valor equivalente em horas, minutos e segundos, nesta ordem. Se a quantidade de segundos for insuficiente para dar um valor em horas, o valor em horas deve ser 0 (zero). A mesma observação vale em relação aos minutos e segundos.
