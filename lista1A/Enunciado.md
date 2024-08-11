@@ -158,6 +158,7 @@ Saída Esperada 3:
 
 ### ex008.cpp
 
+
 Faça um programa Pascal que leia três números inteiros (P1, P2 e P3) contendo as notas das três provas de um aluno em uma certa disciplina e imprima a média final deste aluno, a qual deve ser um número inteiro. Considerar que a média é ponderada e que o peso das notas é 1, 2 e 3, respectivamente. A fórmula que calcula essa média é:
 
 ![formula](https://i.imgur.com/GKlQros.png "formula")
@@ -233,4 +234,27 @@ Entrada 3:
 90
 Saída Esperada 3:
 30.00
+```
+
+
+### ex012.cpp
+
+Faça um programa Pascal que leia do teclado dois números inteiros e imprima qual é o menor valor entre eles.
+
+```
+Exemplos:
+Entrada 1:
+5 4
+Saída Esperada 1:
+4
+
+Entrada 2:
+-3 -4
+Saída Esperada 2:
+-4
+
+Entrada 3:
+6 15
+Saída Esperada 3:
+6
 ```
