@@ -374,3 +374,26 @@ Entrada 2:
 Saída Esperada 2:
 NAO
 ```
+
+
+### ex019.cpp
+
+Faça um programa Pascal que leia do teclado um número inteiro N e imprima se ele é PAR ou IMPAR.
+
+```
+Exemplos:
+Entrada 1:
+5
+Saída Esperada 1:
+IMPAR
+
+Entrada 2:
+3
+Saída Esperada 2:
+IMPAR
+
+Entrada 3:
+2
+Saída Esperada 3:
+PAR
+```
