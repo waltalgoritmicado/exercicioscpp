@@ -5,7 +5,7 @@
 Faça um programa Pascal que leia do teclado dois valores reais x e y, e em seguida calcule e imprima o valor da seguinte expressão com três casas decimais:
 
 
-[expressao](https://i.imgur.com/o2xHeW6.png "expressao")
+![expressao](https://i.imgur.com/o2xHeW6.png "expressao")
 
 ```
 Exemplos:
@@ -475,7 +475,7 @@ NAO
 
 Considere a razão r de uma P.A. (Progressão Aritmética) e um termo qualquer, k (ak). Escreva um programa Pascal para calcular o enésimo termo n (an). Seu programa deve ler quatro valores inteiros k, ak, r, n do teclado e imprimir o inteiro an, segundo a fórmula:
 
-[formula](https://i.imgur.com/IfV03GH.png "formula")
+![formula](https://i.imgur.com/IfV03GH.png "formula")
 
 
 ```
@@ -526,7 +526,7 @@ Uma P.A. (Progressão Aritmética) é determinada pela sua razão r e pelo prime
 capaz de imprimir o enésimo (n) termo (an) de uma P.A., dado a razão (r) e o primeiro termo (a1). Seu programa deve ler três valores inteiros
 do teclado (n, r, a1) do teclado e imprimir o inteiro an, segundo a fórmula:
 
-[formula](https://i.imgur.com/3HxknAN.png "formula")
+![formula](https://i.imgur.com/3HxknAN.png "formula")
 
 ```
 Exemplos:
