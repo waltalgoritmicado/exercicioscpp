@@ -334,7 +334,7 @@ NAO
 
 Faça um programa Pascal que leia dois números inteiros do teclado e imprima SIM se o primeiro número é divisível pelo segundo.
 
-``
+```
 Exemplos:
 Entrada 1:
 5 10
